@@ -37,6 +37,8 @@ This tap:
 
 [prospects](https://api.outreach.io/api/v2/docs#prospect)
 
+[sequences](https://api.outreach.io/api/v2/docs#sequence)
+
 [stages](https://api.outreach.io/api/v2/docs#stage)
 
 [tasks](https://api.outreach.io/api/v2/docs#task)

@@ -113,6 +113,17 @@ STEAM_CONFIGS = {
             'updaterId'
         ]
     },
+    'sequences': {
+        'url_path': 'sequences',
+        'replication': 'incremental',
+        'filter_field': 'updatedAt',
+        'fks': [
+            'creatorId',
+            'ownerId',
+            'updaterId',
+            'rulesetId'
+        ]
+    },
     'stages': {
         'url_path': 'stages',
         'replication': 'incremental',
